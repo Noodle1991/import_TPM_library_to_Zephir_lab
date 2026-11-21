@@ -5,4 +5,4 @@ __________________________________
 Uploaded Artefacts:
 
 * xxx.pptx contains first part - kind of introduction (what is going on; why this path is chosen)
-* OverWolf.pptx contains send part - intermediate result (short GDB overview; almost ready .elf)
+* OverWolf.pptx contains second part - intermediate result (short GDB overview; almost ready .elf)
